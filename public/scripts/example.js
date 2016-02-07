@@ -1,3 +1,4 @@
+/* vim: set sw=2 sts=2: */
 /**
  * This file provided by Facebook is for non-commercial testing and evaluation
  * purposes only. Facebook reserves all rights not expressly granted.
