@@ -55,6 +55,10 @@ sudo npm install -g npm
 
 sudo npm install --global gulp
 
+# Browserify
+
+sudo npm install -g browserify
+
 # less
 
 sudo npm install -g less
